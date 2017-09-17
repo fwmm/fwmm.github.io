@@ -49,7 +49,9 @@ and recent advances in ai, especially deep learning, give good reason for concer
 
 the truth is technology does kill jobs - while at the same time create others. and we are historically very bad at predicting what new jobs will be created. will things be net positive this time as before? optimists are reasonably extrapolating from the past while pessimists have a point that there is now gurantee the future will repeat the past. are the frogs coming for your job?
 -->
+Existe essa excitação enorme no momento em relação aos avanços tecnológicos em diversas áreas, uma mistura de euforia e ansiedade (em alguns casos até pânico). Todas essas frentes de inovação tecnológica (IA, Robótica, Internet das Coisas, Edição Genética, entre outras) devem impactar profundamente ao longo das próximas décadas a maneira que vivemos, nos organizamos em sociedade e até como vemos a nós mesmos como indivíduos e espécie. Entretanto, me parece claro que o maior elefante na sala, sob várias perspectivas, mas certamente sob uma perspectiva de mercado de trabalho, é IA/Robótica.
 
+E isso é compreensível uma vez que a IA traz consigo o prospecto de substituição do trabalho humano e, em última instância, da própria obsolescência do ser humano como motor da geração de valor na economia (ou obsolescência pura e simples do humano).
 
 
 
