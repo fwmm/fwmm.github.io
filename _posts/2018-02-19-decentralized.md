@@ -12,6 +12,8 @@ cryptography
 e2e encryption
 distributed ledger technologies
 -->
+![My helpful screenshot]({{ "/assets/bitcoin-3089728_1920.jpg" | absolute_url }})
+
 A imaginação popular e a mídia de massa, não apenas no Brasil, mas em todo o mundo, têm se concentrado majoritariamente nos aspectos de investimento financeiro das criptomoedas. Por esse motivo, a depender de com quem você fale, o fenômeno ora é visto como um jeito mágico de ganhar dinheiro fácil, ora como uma gigantesca bolha especulativa prestes a estourar, ou simplesmente como um esquema fraudulento de pirâmide financeira para roubar os incautos.
 
 A verdade é que se você estiver se referindo a uma criptomoeda específica em um momento específico do tempo, todas as alternativas acima podem ser verdadeiras. Quem colocou dinheiro nas criptomoedas certas no início de 2017 teve ganhos acima de qualquer outro ativo do mercado ou de [qualquer expectativa razoável](https://qz.com/1169000/ripple-was-the-best-performing-cryptocurrency-of-2017-beating-bitcoin/). Isso pra não falar nos pioneiros do Bitcoin que tiveram fé e nervos para manter suas posições por vários anos. Esses viraram literalmente [milionários à partir de investimentos insignificantes](https://www.cnbc.com/2018/01/24/19-year-old-bitcoin-millionaire-offers-crucial-investing-advice.html). Praticamente "magia" financeira.
