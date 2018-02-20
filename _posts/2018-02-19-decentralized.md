@@ -12,7 +12,8 @@ cryptography
 e2e encryption
 distributed ledger technologies
 -->
-![My helpful screenshot]({{ site.baseurl }}/assets/bitcoin-3089728_1920.jpg")
+![]({{ site.baseurl }}/assets/bitcoin-3089728_1920.jpg")
+
 
 A imaginação popular e a mídia de massa, não apenas no Brasil, mas em todo o mundo, têm se concentrado majoritariamente nos aspectos de investimento financeiro das criptomoedas. Por esse motivo, a depender de com quem você fale, o fenômeno ora é visto como um jeito mágico de ganhar dinheiro fácil, ora como uma gigantesca bolha especulativa prestes a estourar, ou simplesmente como um esquema fraudulento de pirâmide financeira para roubar os incautos.
 
